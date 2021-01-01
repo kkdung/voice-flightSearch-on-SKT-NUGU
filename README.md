@@ -11,19 +11,19 @@ update....
 
 
 
-![image-20210101115640631](/Users/kkdung/Library/Application Support/typora-user-images/image-20210101115640631.png)
+![1](./img/1.png)
 
 
 
 
 
-<img src="/Users/kkdung/Library/Application Support/typora-user-images/image-20210101115738231.png" alt="image-20210101115738231" style="zoom:50%;" />
+<img src="./img/2.png" style="zoom:50%;" />
 
 
 
 
 
-<img src="/Users/kkdung/Library/Application Support/typora-user-images/image-20210101115754642.png" alt="image-20210101115754642" style="zoom:50%;" />
+<img src="./img/3.png" style="zoom:50%;" />
 
 
 
@@ -31,4 +31,4 @@ update....
 
 브릿지페이지
 
-<img src="/Users/kkdung/Library/Application Support/typora-user-images/image-20210101120027578.png" alt="image-20210101120027578" style="zoom:80%;" />
+<img src="./img/4.png" style="zoom:50%;" />
