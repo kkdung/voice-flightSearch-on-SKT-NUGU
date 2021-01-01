@@ -20,7 +20,7 @@ update....
 <p align="center">
   <img src="./img/2.png?raw=true"/ width = "300px" style="margin-right:10px"><img src="./img/3.png?raw=true"/ width = "300px" style="margin-left:10px">
 </p>
-<p align="center"><strong>SK텔레콤 NUGU Play 상용화 출시(2019.10)</strong></p>
+<p align="center"><strong>SK텔레콤 NUGU Play 상용화 출시(2020.11)</strong></p>
 
 
 
