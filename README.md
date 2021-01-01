@@ -17,13 +17,14 @@ update....
 
 
 
-<img src="./img/2.png" style="zoom:50%;" />
+<p align="center">
+  <img src="./img/2.png?raw=true"/ width = "300px" style="margin-right:10px"><img src="./img/3.png?raw=true"/ width = "300px" style="margin-left:10px">
+</p>
+<p align="center"><strong>SK텔레콤 NUGU Play 상용화 출시(2019.10)</strong></p>
 
 
 
 
-
-<img src="./img/3.png" style="zoom:50%;" />
 
 
 
@@ -31,4 +32,6 @@ update....
 
 브릿지페이지
 
-<img src="./img/4.png" style="zoom:50%;" />
+<p align="center">
+<img src="./img/4.png?raw=true"/ width = "500px">
+</p>
